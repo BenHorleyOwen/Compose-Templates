@@ -1,0 +1,12 @@
+[submodule "API-template"]
+	path = API-template
+	url = ./API-template/
+[submodule "Database-Node"]
+	path = Database-Node
+	url = ./Database-Node/
+[submodule "Node-Template"]
+	path = Node-Template
+	url = ./Node-Template/
+[submodule "Jekyll-Host"]
+	path = Jekyll-Host
+	url = ./Jekyll-Host
