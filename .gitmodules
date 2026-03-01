@@ -10,3 +10,6 @@
 [submodule "Jekyll-Host"]
 	path = Jekyll-Host
 	url = ./Jekyll-Host
+[submodule "Obsidian server compose"]
+	path = Obsidian server compose
+	url = ./Obsidian server compose/
