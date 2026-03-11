@@ -1,15 +1,24 @@
 [submodule "API-template"]
-	path = API-template
-	url = ./API-template/
+    path = API-template
+    url = git@github.com:BenHorleyOwen/API-template.git
+    branch = main
+
 [submodule "Database-Node"]
-	path = Database-Node
-	url = ./Database-Node/
+    path = Database-Node
+    url = git@github.com:BenHorleyOwen/Database-Node.git
+    branch = main
+
 [submodule "Node-Template"]
-	path = Node-Template
-	url = ./Node-Template/
+    path = Node-Template
+    url = git@github.com:BenHorleyOwen/Node-Template.git
+    branch = main
+
 [submodule "Jekyll-Host"]
-	path = Jekyll-Host
-	url = ./Jekyll-Host
-[submodule "Obsidian server compose"]
-	path = Obsidian server compose
-	url = ./Obsidian server compose/
+    path = Jekyll-Host
+    url = git@github.com:BenHorleyOwen/Jekyll-Host.git
+    branch = main
+
+[submodule "Obsidian-Server"]
+    path = Obsidian-Server
+    url = git@github.com:BenHorleyOwen/Obsidian-Server.git
+    branch = main
